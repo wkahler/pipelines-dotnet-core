@@ -2,6 +2,9 @@
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
+[![Build Status](https://200marketinginc.visualstudio.com/Kims%20Playground/_apis/build/status/wkahler.pipelines-dotnet-core)](https://200marketinginc.visualstudio.com/Kims%20Playground/_build/latest?definitionId=4)
+
+
 | Example | Build status |
 |---------|--------------|
 | Build | [![Build status](https://dev.azure.com/pipelines-docs/docs/_apis/build/status/dotnetcore/dotnetcore)](https://dev.azure.com/pipelines-docs/docs/_build/latest?definitionId=1) |
